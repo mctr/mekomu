@@ -9,9 +9,9 @@ include ('Layout/_header.php');
         <li class="sidebar-brand"><a href="#">Yıllık</a></li>
         <li><a href="#top">Ana Sayfa</a></li>
         <li><a href="#portfolio">E-Resim</a></li>
-        <li><a href="#services">Katalog</a></li>
+        <li><a href="#catalog">Katalog</a></li>
         <li><a href="#">Hakkımız</a></li>
-        <li><a href="#">İletişim</a></li>
+        <li><a href="#services">İletişim</a></li>
       </ul>
     </div>
     <!-- /Side Menu -->
@@ -38,7 +38,9 @@ include ('Layout/_header.php');
             </div>
           </div>
         </div>
+        
         <?php include('login.php');?>
+        
         <!-- Intro -->
     <div id="intro" class="intro">
       <div class="container">
@@ -145,6 +147,7 @@ include ('Layout/_header.php');
     </div>
  
     <!-- /Portfolio -->
+	<?php include('catalog.php');?>
 
     <!-- Call to Action -->
     <div class="call-to-action">

@@ -1,4 +1,4 @@
-<div id="static" class="modal fade" tabindex="-1" data-backdrop="static" data-keyboard="false" style="display: none; background-color: #00FFFF;">
+<div id="static" class="modal fade" tabindex="-1" data-backdrop="static" data-keyboard="false" style="display: none;/* background-image: url(Bootstrap/img/11.jpg);*/">
          <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
           </div> 
@@ -34,7 +34,7 @@
           </div>
         </div>
         
-        <div id="responsive" class="modal fade" tabindex="-1" data-width="760" style="display: none; background-color: #00FFFF;">
+        <div id="responsive" class="modal fade" tabindex="-1" data-width="760" style="display: none; /*background-image: url(Bootstrap/img/7.jpg);*/">
           <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
           </div>

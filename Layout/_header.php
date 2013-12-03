@@ -21,6 +21,9 @@
     <link href="Bootstrap/css/button.css" rel="stylesheet">
     <link href="Bootstrap/css/styless.css" rel="stylesheet" type="text/css">
     <link href="Bootstrap/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="Bootstrap/css/demo.css" />
+    <link rel="stylesheet" type="text/css" href="Bootstrap/css/style.css" />
+    <script type="text/javascript" src="Bootstrap/js/run.js"></script> 
   </head>
 
   <body>

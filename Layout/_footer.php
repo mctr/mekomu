@@ -8,6 +8,15 @@
     <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.js"></script>
     <script src="Bootstrap/js/bootstrap-modalmanager.js"></script>
     <script src="Bootstrap/js/bootstrap-modal.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+    <script type="text/javascript" src="Bootstrap/js/jquery.imgslider.js"></script>
+    <script type="text/javascript">
+      $(function() {
+
+        $( '#fs-slider' ).imgslider();
+
+      });
+    </script>
 
   <!-- Custom JavaScript for the Side Menu - Put in a custom JS file if you want to clean this up -->
   <script>
