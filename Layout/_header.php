@@ -10,6 +10,7 @@
 
     <!-- Bootstrap core CSS -->
     <link href="Bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="Bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Add custom CSS here -->
   <link href="http://getbootstrap.com/2.3.2/assets/js/google-code-prettify/prettify.css" rel="stylesheet" />

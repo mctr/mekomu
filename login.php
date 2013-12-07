@@ -34,7 +34,7 @@
           </div>
         </div>
         
-        <div id="responsive" class="modal fade" tabindex="-1" data-width="760" style="display: none; /*background-image: url(Bootstrap/img/7.jpg);*/">
+        <div id="responsive" class="modal fade" tabindex="-1" data-width="760" style="display: none; /*background: url(http://lorempixel.com/1920/1920/city/9/) no-repeat center center fixed;*/">
           <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
           </div>
